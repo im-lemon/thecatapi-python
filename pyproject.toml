@@ -1,9 +1,9 @@
 [project]
 name = "thecatapi-python"
-version = "0.1.0"
+version = "0.1.1"
 description = "A simple wrapper for thecatapi."
 authors = [
-    { name = "lemonkitty" }
+    { name = "im-lemon" }
 ]
 readme = "README.md"
 requires-python = ">=3.8"
